@@ -15,10 +15,23 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, C++, SQL.
-- **Cloud:** , Cloud Storage Architecture.
-- **OS**: Linux and trying to build my own OS!!
-- **Specialties:** IoT Security, MQTT Protocol, AI (N8N).
+
+#### **Languages**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+#### **Cloud & Infrastructure**
+[![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-232F3E?style=flat&logo=icloud&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_computing)
+[![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-FF9900?style=flat&logo=amazons3&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_storage)
+
+#### **OS**
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+
+#### **Specialties**
+[![IoT Security](https://img.shields.io/badge/IoT_Security-00AEEF?style=flat&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things_security)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)](https://mqtt.org/)
+[![N8N](https://img.shields.io/badge/AI_Automation_n8n-FF6C37?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
 
 ---
 
