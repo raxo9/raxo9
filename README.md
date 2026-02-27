@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Engineering Student | Cloud & IoT Enthusiast
 
-I am a final-semester Computer Engineering student with a passion for building secure, scalable, and intelligent systems. Currently, I'm diving deep into **Cloud Architecture** and **IoT Security**, while exploring the world of **AI agents**.
+ Computer Engineering senior student with a passion for building secure, scalable, and intelligent systems. Currently, I'm diving deep into **Cloud Architecture** and **IoT Security**, while exploring the world of **AI agents**.
 
 ---
 
