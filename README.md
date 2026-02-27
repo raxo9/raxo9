@@ -8,7 +8,7 @@
 
 ###  Currntly Working On:
 -  **Graduation Project:** Working on **CryptoPulse MQTT (CPM)** – securing IoT connections through advanced encryption and tunneled communication.
--  **AI & Automation:** Building personal AI agents using **n8n** and **Google Gemini**.
+-  **AI & Automation:** Building personal AI agents using **n8n**.
 -  **Cloud:** Exploring Kubernetes, IaaS, and I have a deep interest in how cloud-native solutions transform traditional infrastructures
 -  **Continuous Growth:** Currently focusing on leveling up my expertise in **Cloud Architecture** and **AI** to build more robust, autonomous systems.
 
